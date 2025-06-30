@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there, I'm Anansh 👋
 
-<!--
-**anansh0111/anansh0111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE | Specialization: Data Science | SRMIST KTR  
+📊 Passionate about Data Science, Machine Learning & Problem Solving  
+🚀 Currently building projects & preparing for internships  
+🌱 Exploring Kaggle, Streamlit, Flask, and NLP  
+📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/anansh-jain-03971b281/)
 
-Here are some ideas to get you started:
+🛠️ Tech Stack: Python | Pandas | NumPy | Scikit-learn | SQL | Git | Tableau
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 Projects in Progress:
+- Data Visualization Dashboard
+- ML App with Streamlit
